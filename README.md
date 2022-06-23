@@ -17,9 +17,9 @@ In this project, a series of the steps followed and some experience from the Mod
 ## Results
 Following questions answered in order to exhibit the results. The following pictures will be using to express the results
 
-/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 2022-06-23 at 9.53.57 AM.png
+[/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 2022-06-23 at 9.53.57 AM.png](https://github.com/huzeyfecanbaz/School_District_Analysis/blob/e9e6030a7e0f691a0c52df17ffbf31ea661b68f4/Resources/Screen%20Shot%201.png)
 
-/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 2.png
+[/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 2.png](https://github.com/huzeyfecanbaz/School_District_Analysis/blob/e9e6030a7e0f691a0c52df17ffbf31ea661b68f4/Resources/Screen%20Shot%202.png)
 
 - How is the district summary affected?
 The manipulation in Thomas High School impacted the district summary positively. As it can be seen in the pictures above, even though average math and reading scores are stay still, the % passing math and reading has increased. 
@@ -27,14 +27,14 @@ The manipulation in Thomas High School impacted the district summary positively.
 - How is the school summary affected?
 As it can be seen in the picture below, the Thomas High School is located in the top 5 schools after the analysis.
 
-/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 3.png
+[/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 3.png](https://github.com/huzeyfecanbaz/School_District_Analysis/blob/e9e6030a7e0f691a0c52df17ffbf31ea661b68f4/Resources/Screen%20Shot%203.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 The change in ninth graders' math and reading scores impacted the % passing math, % passing reading and % overall passing scores. Those changes can be seen in the following pictures, last three columns is representing % passing math, % passing reading and % overall passing scores. The change in % passing math is from %66.91 to %93.18, % passing reading is from $69.66 to %97.01 and % overall passing scores is %65.07 to %90.63.
+[
+/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 2022-06-23 at 9.53.57 AM.png](https://github.com/huzeyfecanbaz/School_District_Analysis/blob/e9e6030a7e0f691a0c52df17ffbf31ea661b68f4/Resources/Screen%20Shot%201.png)
 
-/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 2022-06-23 at 9.53.57 AM.png
-
-/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 2.png
+[/Users/huzeyfecanbaz/Desktop/Class/School_District_Analysis/Resources/Screen Shot 2.png](https://github.com/huzeyfecanbaz/School_District_Analysis/blob/e9e6030a7e0f691a0c52df17ffbf31ea661b68f4/Resources/Screen%20Shot%202.png)
 
 - How does replacing the ninth-grade scores affect the following:
 	- Math and reading scores by grade
